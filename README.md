@@ -1,24 +1,277 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-powered applications, scalable backend systems, and real-time web platforms focused on solving practical problems through clean engineering and modern technologies.<br>🤝 I’m looking to collaborate on impactful open-source projects, AI integrations, full-stack applications, and innovative systems that create meaningful user experiences.<br>🧠 I’m looking for help with advanced system design, distributed systems, cloud architecture, and optimizing AI workflows for production-scale applications.<br>🌱 I’m currently learning advanced backend engineering, scalable architectures, DevOps practices, and exploring deeper applications of Generative AI and Computer Vision.<br>💬 Ask me about Full Stack Development, AI/ML projects, REST APIs, WebSockets, Computer Vision, backend optimization, and building production-ready applications.<br>⚡ Fun fact: I enjoy turning complex ideas into real-world products and often spend more time refining architecture and user experience than actually sleeping.
+ <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ISHAAN MITTAL | CYBERPUNK DEVELOPER PROFILE                 -->
+<!--  GitHub: kalicharm21                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishaan-mittal29/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaanmittal999@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:052e16,100:00ff9c&text=ISHAAN%20MITTAL&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20%7C%20ENGINEERING%20REAL-WORLD%20IMPACT&descSize=12&descAlignY=58&animation=fadeIn&stroke=00FF9C&strokeWidth=1" width="100%" alt="Animated cyberpunk profile header"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kalicharm21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kalicharm21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kalicharm21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=850&height=50&lines=%3E+AI+Engineer+%7C+Full-Stack+Developer;%3E+Software+Engineering+%7C+Backend+Systems;%3E+Product+%26+Strategy+%7C+Founder%27s+Office;%3E+Research+%7C+Innovation+%7C+Growth;%3E+Turning+ideas+into+working+products..." alt="Animated terminal typing introduction"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kalicharm21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/kalicharm21">
+<img src="https://img.shields.io/badge/GITHUB-kalicharm21-00FF9C?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/ishaan-mittal29/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://ishaanmittaldev29.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore-111827?style=for-the-badge&logo=vercel&logoColor=00FF9C" alt="Portfolio"/>
+</a>
+<a href="mailto:ishaanmittal999@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kalicharm21&style=flat-square&color=00ff9c&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kalicharm21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01 // SYSTEM_IDENTITY`
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  USER       : Ishaan Mittal                              │
+│  ROLE       : Engineer | Builder | Problem Solver        │
+│  EDUCATION  : B.Tech CSE — AI & Machine Learning         │
+│  UNIVERSITY : VIT Bhopal University                      │
+│  STATUS     : Learning, Building & Exploring             │
+│  MINDSET    : Think deeply. Build practically. Iterate.  │
+└──────────────────────────────────────────────────────────┘
+```
+
+I'm a computer science student interested in the intersection of **artificial intelligence, software engineering, product development, and business strategy**.
+
+I enjoy taking ideas from an early concept to a working product — designing APIs, integrating AI models, building intuitive interfaces, and thinking about the people who will actually use what I create.
+
+Beyond writing code, I'm interested in understanding users, evaluating opportunities, improving workflows, conducting research, and helping teams turn ambitious ideas into practical solutions.
+
+```bash
+$ whoami
+  engineer + researcher + product-minded builder
+
+$ mission
+  build useful technology, solve real problems,
+  and keep learning beyond the obvious.
+
+$ current_mode
+  [ BUILDING ] [ EXPERIMENTING ] [ COLLABORATING ]
+```
+
+## `02 // AREAS_OF_INTEREST`
+
+<div align="center">
+
+| DOMAIN | WHAT I'M INTERESTED IN |
+|:---|:---|
+| 🤖 AI & Machine Learning | Generative AI, AI agents, computer vision, intelligent applications |
+| 💻 Software Engineering | Full-stack development, APIs, backend architecture, DSA |
+| ⚙️ Systems & Cloud | Distributed systems, databases, scalability, DevOps |
+| 📊 Product & Analytics | Product thinking, user research, metrics, data-driven decisions |
+| 🚀 Strategy & Growth | Market research, competitive analysis, GTM, growth experiments |
+| 🔬 Research & Innovation | Applied ML, experimentation, technical writing, emerging technologies |
+| 🤝 People & Operations | Team coordination, communication, recruitment, workflow improvement |
+
+</div>
+
+**Open to opportunities across:** AI Engineering, Full-Stack Development, Software Engineering, Backend Engineering, Product Management, Technical Product Analysis, Data & Business Analytics, Founder’s Office, Strategy & Operations, Research, and Growth.
+
+## `03 // FEATURED_BUILDS`
+
+<details open>
+<summary><b>⚡ VITMESS — Campus Utility Platform</b></summary>
+
+A Progressive Web App designed to make everyday mess information easier for students to access.
+
+- Mess menus, meal schedules, timings, and countdowns.
+- Installable PWA experience for convenient access.
+- Feedback flow to help collect student input.
+- Built around a practical campus use case.
+
+**Tech:** React ecosystem, TypeScript/JavaScript, Firebase, web technologies.
+
+</details>
+
+<details>
+<summary><b>💳 FINOVA — AI-Powered Finance Application</b></summary>
+
+A finance application focused on simplifying receipt processing and expense tracking.
+
+- Uses computer vision and Gemini Vision for receipt extraction.
+- Designed to reduce repetitive manual data entry.
+- Integrates authentication, database access, and secure data handling.
+
+**Tech:** Next.js, Tailwind CSS, Supabase, Prisma, Clerk, OpenCV, Gemini Vision.
+
+</details>
+
+<details>
+<summary><b>⚙️ WorkQuanta — Real-Time Scheduling</b></summary>
+
+A web application exploring real-time task coordination and scheduling workflows.
+
+- Real-time communication and updates.
+- Backend-driven scheduling workflows.
+- Focus on responsive interfaces and reliable application behaviour.
+
+**Tech:** WebSockets, JavaScript/TypeScript, web application technologies.
+
+</details>
+
+<details>
+<summary><b>🖐️ Virtual Mouse — Computer Vision</b></summary>
+
+An interaction system that explores hands-free cursor control through computer vision.
+
+- Hand-landmark tracking and gesture recognition.
+- Real-time camera processing.
+- Focus on responsive controls and reducing unintended interactions.
+
+**Tech:** Python, OpenCV, MediaPipe.
+
+</details>
+
+<details>
+<summary><b>🧠 Clinical ML Research — Diabetes Onset Prediction</b></summary>
+
+Research on clinical decision support using machine learning to benchmark LightGBM against deep-learning approaches for diabetes onset prediction.
+
+- Model evaluation and comparative experimentation.
+- Applied machine learning for healthcare-related prediction.
+- IEEE conference paper: *Clinical Decision Support through Machine Learning: Benchmarking LightGBM and Deep Learning Models for Diabetes Onset Prediction.*
+
+</details>
+
+> Explore more experiments, implementations, and source code in my [GitHub repositories](https://github.com/kalicharm21?tab=repositories).
+
+## `04 // TECH_STACK`
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css&theme=dark" alt="Programming language icons"/>
+
+### FRONTEND & UI
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,figma&theme=dark" alt="Frontend and UI icons"/>
+
+### BACKEND & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs&theme=dark" alt="Backend technologies"/>
+
+### DATABASES & AUTHENTICATION
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma&theme=dark" alt="Database and backend service icons"/>
+
+### AI, DATA & COMPUTER VISION
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI and machine learning icons"/>
+
+### CLOUD, TOOLS & DEPLOYMENT
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,vercel,linux&theme=dark" alt="Cloud and developer tools"/>
+
+</div>
+
+**Also exploring:** REST API design, JWT authentication, WebSockets, SQL optimization, data analysis, NumPy, Pandas, Matplotlib, LLM integrations, and production-oriented AI workflows.
+
+## `05 // ENGINEERING_MINDSET`
+
+```python
+class IshaanMittal:
+    interests = [
+        "Artificial Intelligence",
+        "Full-Stack Engineering",
+        "Backend & Distributed Systems",
+        "Product Strategy & Analytics",
+        "Research & Innovation",
+    ]
+
+    principles = {
+        "engineering": "Understand before implementing",
+        "product": "Solve the actual user problem",
+        "research": "Test assumptions with evidence",
+        "growth": "Measure, learn, and iterate",
+        "teamwork": "Communicate and execute together",
+    }
+
+    def next_step(self):
+        return "Build something useful."
+```
+
+- **Engineering:** Build maintainable systems, not just demos.
+- **Product:** Understand the problem before choosing the technology.
+- **Analytics:** Use evidence and measurable outcomes to guide decisions.
+- **Research:** Explore alternatives and validate assumptions.
+- **Leadership:** Collaborate, communicate, and follow through.
+
+## `06 // EXPERIENCE_AND_RECOGNITION`
+
+- **AI Internship — amasQIS.ai:** Worked on annotation interfaces, dashboards, and AI-assisted workflows.
+- **Research:** IEEE conference paper on machine learning for clinical decision support.
+- **Hackathons & Innovation:** Participated in technical competitions, including the National Space Hackathon 2025 at IIT Delhi.
+- **Leadership:** Vice President, Music & Band Club, VIT Bhopal University.
+- **Product & Community:** Experience spanning product work, outreach, team coordination, and student initiatives.
+
+## `07 // CURRENT_OBJECTIVES`
+
+```text
+[+] Build production-oriented AI applications
+[+] Strengthen backend and system design fundamentals
+[+] Explore AI agents and real-world LLM workflows
+[+] Improve product analytics and business understanding
+[+] Contribute to meaningful open-source projects
+[+] Collaborate with ambitious, multidisciplinary teams
+```
+
+If you're working on an interesting product, open-source initiative, AI application, or early-stage startup, I'd be glad to connect.
+
+## `08 // GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalicharm21&show_icons=true&hide_border=true&bg_color=020617&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicharm21&layout=compact&hide_border=true&bg_color=020617&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=kalicharm21&theme=dark&hide_border=true&background=020617&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak"/>
+
+</div>
+
+## `09 // CONNECT`
+
+<div align="center">
+
+```text
+01001000 01100101 01101100 01101100 01101111
+
+> Open to learning.
+> Open to collaboration.
+> Open to building what comes next.
+```
+
+<a href="https://linkedin.com/in/ishaan-mittal29/"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect on LinkedIn"/></a>
+
+<a href="https://github.com/kalicharm21?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=00FF9C" alt="Explore GitHub repositories"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:020617&height=100&section=footer" width="100%" alt="Decorative animated footer"/>
+
+**`END OF TRANSMISSION // KEEP BUILDING.`**
+
+</div>
+
+<!--
+External services used:
+- capsule-render.vercel.app
+- readme-typing-svg.demolab.com
+- skillicons.dev
+- github-readme-stats.vercel.app
+- streak-stats.demolab.com
+- shields.io
+- komarev.com
+-->
