@@ -1,277 +1,134 @@
- <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  ISHAAN MITTAL | CYBERPUNK DEVELOPER PROFILE                 -->
-<!--  GitHub: kalicharm21                                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:052e16,100:00ff9c&text=ISHAAN%20MITTAL&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20%7C%20ENGINEERING%20REAL-WORLD%20IMPACT&descSize=12&descAlignY=58&animation=fadeIn&stroke=00FF9C&strokeWidth=1" width="100%" alt="Animated cyberpunk profile header"/>
+<img src="assets/matrix-ascii-hero.svg" alt="Animated ASCII cyberpunk terminal" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=850&height=50&lines=%3E+AI+Engineer+%7C+Full-Stack+Developer;%3E+Software+Engineering+%7C+Backend+Systems;%3E+Product+%26+Strategy+%7C+Founder%27s+Office;%3E+Research+%7C+Innovation+%7C+Growth;%3E+Turning+ideas+into+working+products..." alt="Animated terminal typing introduction"/>
+# ISHAAN_MITTAL.exe
+### SOFTWARE ENGINEERING // AI & ML // PRODUCT SYSTEMS
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F5D4?style=for-the-badge&logo=vercel&logoColor=05070D)](https://itsmeishaan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-mittal29/)
+[![Email](https://img.shields.io/badge/EMAIL-FF2E88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaanmittal999@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/kalicharm21)
 
-<a href="https://github.com/kalicharm21">
-<img src="https://img.shields.io/badge/GITHUB-kalicharm21-00FF9C?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/ishaan-mittal29/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://ishaanmittaldev29.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Explore-111827?style=for-the-badge&logo=vercel&logoColor=00FF9C" alt="Portfolio"/>
-</a>
-<a href="mailto:ishaanmittal999@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kalicharm21&style=flat-square&color=00ff9c&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+`[ SYSTEM ONLINE ] [ VIT BHOPAL // CSE (AI & ML) ] [ CGPA: 8.76/10 ]`
 
 </div>
 
 ---
 
-## `01 // SYSTEM_IDENTITY`
+## `01 // PLAYER PROFILE`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│  USER       : Ishaan Mittal                              │
-│  ROLE       : Engineer | Builder | Problem Solver        │
-│  EDUCATION  : B.Tech CSE — AI & Machine Learning         │
-│  UNIVERSITY : VIT Bhopal University                      │
-│  STATUS     : Learning, Building & Exploring             │
-│  MINDSET    : Think deeply. Build practically. Iterate.  │
-└──────────────────────────────────────────────────────────┘
+> identity.load("Ishaan Mittal")
+> role   : Software Engineering | AI/ML | Product & Business Operations
+> status : B.Tech CSE (AIML), VIT Bhopal — 2023–2027
+> focus  : scalable software, intelligent workflows, API systems
+> loop   : build -> measure -> debug -> ship
 ```
 
-I'm a computer science student interested in the intersection of **artificial intelligence, software engineering, product development, and business strategy**.
+I work across **software engineering, AI/ML pipelines, API systems, and product operations**—turning practical requirements into user-centric software. I enjoy designing reliable APIs, improving data workflows, testing edge cases, and making systems faster and easier to use.
 
-I enjoy taking ideas from an early concept to a working product — designing APIs, integrating AI models, building intuitive interfaces, and thinking about the people who will actually use what I create.
+## `02 // TECH ARSENAL`
 
-Beyond writing code, I'm interested in understanding users, evaluating opportunities, improving workflows, conducting research, and helping teams turn ambitious ideas into practical solutions.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,supabase,docker,git,github&theme=dark" alt="Technology stack"/>
+</p>
 
-```bash
-$ whoami
-  engineer + researcher + product-minded builder
+| MODULE | TOOLS / CAPABILITIES |
+|---|---|
+| Languages | Python · Java · C++ · TypeScript · JavaScript · SQL · Bash |
+| Software & Web | React · Next.js · Node.js · Express · FastAPI · REST APIs · OOP · Design Patterns · TDD |
+| Data & Systems | PostgreSQL · MySQL · Supabase · MongoDB · Relational Modeling · Docker · Git |
+| AI / ML | Scikit-learn · OpenCV · MediaPipe · Gemini Vision API · Groq SDK · LLM Integration · Model Evaluation |
+| Product / Ops | Requirements Scoping · Workflow Mapping · KPI Tracking · Root-Cause Triage · Stakeholder Alignment |
 
-$ mission
-  build useful technology, solve real problems,
-  and keep learning beyond the obvious.
-
-$ current_mode
-  [ BUILDING ] [ EXPERIMENTING ] [ COLLABORATING ]
-```
-
-## `02 // AREAS_OF_INTEREST`
-
-<div align="center">
-
-| DOMAIN | WHAT I'M INTERESTED IN |
-|:---|:---|
-| 🤖 AI & Machine Learning | Generative AI, AI agents, computer vision, intelligent applications |
-| 💻 Software Engineering | Full-stack development, APIs, backend architecture, DSA |
-| ⚙️ Systems & Cloud | Distributed systems, databases, scalability, DevOps |
-| 📊 Product & Analytics | Product thinking, user research, metrics, data-driven decisions |
-| 🚀 Strategy & Growth | Market research, competitive analysis, GTM, growth experiments |
-| 🔬 Research & Innovation | Applied ML, experimentation, technical writing, emerging technologies |
-| 🤝 People & Operations | Team coordination, communication, recruitment, workflow improvement |
-
-</div>
-
-**Open to opportunities across:** AI Engineering, Full-Stack Development, Software Engineering, Backend Engineering, Product Management, Technical Product Analysis, Data & Business Analytics, Founder’s Office, Strategy & Operations, Research, and Growth.
-
-## `03 // FEATURED_BUILDS`
+## `03 // DEPLOYED PROJECTS`
 
 <details open>
-<summary><b>⚡ VITMESS — Campus Utility Platform</b></summary>
+<summary><b>FINOVA // Enterprise Invoicing & Financial Tracking</b></summary>
 
-A Progressive Web App designed to make everyday mess information easier for students to access.
+**Stack:** Python · PostgreSQL · Supabase · Next.js · Gemini Vision
 
-- Mess menus, meal schedules, timings, and countdowns.
-- Installable PWA experience for convenient access.
-- Feedback flow to help collect student input.
-- Built around a practical campus use case.
-
-**Tech:** React ecosystem, TypeScript/JavaScript, Firebase, web technologies.
+- Designed a multi-tenant platform with OOP patterns, asynchronous protocols, and Row-Level Security for transactional data isolation.
+- Automated invoice extraction with Gemini Vision, reducing manual invoice logging by **75%**.
+- Tuned **12 relational queries** with composite B-tree indexes, reducing execution latency by **60%** and targeting sub-200 ms responses.
 
 </details>
 
 <details>
-<summary><b>💳 FINOVA — AI-Powered Finance Application</b></summary>
+<summary><b>ShopSense // Voice-Activated Conversational Commerce</b></summary>
 
-A finance application focused on simplifying receipt processing and expense tracking.
+**Stack:** TypeScript · Next.js · Groq · PostgreSQL
 
-- Uses computer vision and Gemini Vision for receipt extraction.
-- Designed to reduce repetitive manual data entry.
-- Integrates authentication, database access, and secure data handling.
-
-**Tech:** Next.js, Tailwind CSS, Supabase, Prisma, Clerk, OpenCV, Gemini Vision.
+- Built a voice-driven retail assistant that recognizes speech intent and manages shopping-list items with **sub-250 ms interaction latency**.
+- Added recipe intelligence to parse dishes into ingredients and sync carts across active sessions.
+- Implemented predictive exhaustion analytics for proactive replenishment alerts.
 
 </details>
 
 <details>
-<summary><b>⚙️ WorkQuanta — Real-Time Scheduling</b></summary>
+<summary><b>VITMESS // Campus Mess Utility</b></summary>
 
-A web application exploring real-time task coordination and scheduling workflows.
-
-- Real-time communication and updates.
-- Backend-driven scheduling workflows.
-- Focus on responsive interfaces and reliable application behaviour.
-
-**Tech:** WebSockets, JavaScript/TypeScript, web application technologies.
+- A campus-focused PWA for checking mess menus, timings, and meal information.
+- Includes feedback access and a convenient installable experience across devices.
 
 </details>
 
 <details>
-<summary><b>🖐️ Virtual Mouse — Computer Vision</b></summary>
+<summary><b>WorkQuanta // Real-Time Scheduling</b></summary>
 
-An interaction system that explores hands-free cursor control through computer vision.
-
-- Hand-landmark tracking and gesture recognition.
-- Real-time camera processing.
-- Focus on responsive controls and reducing unintended interactions.
-
-**Tech:** Python, OpenCV, MediaPipe.
+- A real-time scheduling project focused on WebSockets, responsive updates, and streamlined workflow coordination.
 
 </details>
 
-<details>
-<summary><b>🧠 Clinical ML Research — Diabetes Onset Prediction</b></summary>
+## `04 // EXPERIENCE LOG`
 
-Research on clinical decision support using machine learning to benchmark LightGBM against deep-learning approaches for diabetes onset prediction.
+**Product Intern — Phyllo** `Oct 2025 – Nov 2025`
+- Tested functional and regression behavior across **10+ REST endpoints** in Postman, validating schemas, boundary cases, and response codes.
+- Authored API references, endpoint contracts, and schema definitions to support developer onboarding.
+- Investigated server telemetry and edge failures, cutting root-cause triage turnaround by **20%**.
 
-- Model evaluation and comparative experimentation.
-- Applied machine learning for healthcare-related prediction.
-- IEEE conference paper: *Clinical Decision Support through Machine Learning: Benchmarking LightGBM and Deep Learning Models for Diabetes Onset Prediction.*
+**Software Engineer Intern (AI & Systems) — amasQIS.ai** `Mar 2025 – Sep 2025`
+- Built **5 annotation interfaces** for image and text workflows, supporting **1,000+ daily sessions**.
+- Improved dataset quality by **30%** through agreement checks and confidence-based scoring.
+- Integrated Hugging Face pre-labeling routines, reducing manual annotation turnaround by **40%**.
 
-</details>
+## `05 // RESEARCH & ACHIEVEMENTS`
 
-> Explore more experiments, implementations, and source code in my [GitHub repositories](https://github.com/kalicharm21?tab=repositories).
+- **IEEE ICAAIC 2025 publication** — *Clinical Decision Support through Machine Learning: Benchmarking LightGBM and Deep Learning Models for Diabetes Onset Prediction.* Used 5-fold cross-validation; reported a **0.79 F1 score** and **3× faster execution** under resource-constrained profiles.
+- **Repdox National Hackathon — 1st Runner-Up:** contributed to Bharat Pulse AI, an offline-resilient edge system.
+- **IBM Cybersecurity Analyst** (Data Governance) · **Deloitte GenAI Explorer** · **AlgoUniversity Graph Camp**
+- **Outreach Lead, iOS Club — VIT Bhopal:** organized 6 technical workshops and hackathons for 400+ attendees.
+- **Vice President, Music & Band Club — VIT Bhopal:** helped lead logistics and budgets for 15+ festivals.
 
-## `04 // TECH_STACK`
+## `06 // CONTRIBUTION ARCADE`
 
-<div align="center">
+### `SNAKE.exe // eats contributions, not bugs`
 
-### LANGUAGES
+The snake animation is generated from your actual GitHub contribution graph. It updates when the workflow runs; it is not a live in-browser game.
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css&theme=dark" alt="Programming language icons"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalicharm21/kalicharm21/output/github-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+</p>
 
-### FRONTEND & UI
+### `STREAK & ACTIVITY TELEMETRY`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,figma&theme=dark" alt="Frontend and UI icons"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kalicharm21&theme=dark&hide_border=true&background=05070D&ring=00F5D4&fire=FF2E88&currStreakLabel=00F5D4&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub streak statistics" width="70%"/>
+</p>
 
-### BACKEND & APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalicharm21&show_icons=true&hide_border=true&bg_color=05070D&title_color=00F5D4&icon_color=FF2E88&text_color=D1D5DB&include_all_commits=true" alt="GitHub stats" width="70%"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs&theme=dark" alt="Backend technologies"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalicharm21&bg_color=05070D&color=00F5D4&line=7B2CFF&point=FF2E88&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+</p>
 
-### DATABASES & AUTHENTICATION
+## `07 // CONNECT TO OPERATOR`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma&theme=dark" alt="Database and backend service icons"/>
+- **Portfolio:** https://itsmeishaan.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/ishaan-mittal29/
+- **Email:** ishaanmittal999@gmail.com
 
-### AI, DATA & COMPUTER VISION
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI and machine learning icons"/>
-
-### CLOUD, TOOLS & DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,vercel,linux&theme=dark" alt="Cloud and developer tools"/>
-
-</div>
-
-**Also exploring:** REST API design, JWT authentication, WebSockets, SQL optimization, data analysis, NumPy, Pandas, Matplotlib, LLM integrations, and production-oriented AI workflows.
-
-## `05 // ENGINEERING_MINDSET`
-
-```python
-class IshaanMittal:
-    interests = [
-        "Artificial Intelligence",
-        "Full-Stack Engineering",
-        "Backend & Distributed Systems",
-        "Product Strategy & Analytics",
-        "Research & Innovation",
-    ]
-
-    principles = {
-        "engineering": "Understand before implementing",
-        "product": "Solve the actual user problem",
-        "research": "Test assumptions with evidence",
-        "growth": "Measure, learn, and iterate",
-        "teamwork": "Communicate and execute together",
-    }
-
-    def next_step(self):
-        return "Build something useful."
-```
-
-- **Engineering:** Build maintainable systems, not just demos.
-- **Product:** Understand the problem before choosing the technology.
-- **Analytics:** Use evidence and measurable outcomes to guide decisions.
-- **Research:** Explore alternatives and validate assumptions.
-- **Leadership:** Collaborate, communicate, and follow through.
-
-## `06 // EXPERIENCE_AND_RECOGNITION`
-
-- **AI Internship — amasQIS.ai:** Worked on annotation interfaces, dashboards, and AI-assisted workflows.
-- **Research:** IEEE conference paper on machine learning for clinical decision support.
-- **Hackathons & Innovation:** Participated in technical competitions, including the National Space Hackathon 2025 at IIT Delhi.
-- **Leadership:** Vice President, Music & Band Club, VIT Bhopal University.
-- **Product & Community:** Experience spanning product work, outreach, team coordination, and student initiatives.
-
-## `07 // CURRENT_OBJECTIVES`
-
-```text
-[+] Build production-oriented AI applications
-[+] Strengthen backend and system design fundamentals
-[+] Explore AI agents and real-world LLM workflows
-[+] Improve product analytics and business understanding
-[+] Contribute to meaningful open-source projects
-[+] Collaborate with ambitious, multidisciplinary teams
-```
-
-If you're working on an interesting product, open-source initiative, AI application, or early-stage startup, I'd be glad to connect.
-
-## `08 // GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalicharm21&show_icons=true&hide_border=true&bg_color=020617&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicharm21&layout=compact&hide_border=true&bg_color=020617&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=kalicharm21&theme=dark&hide_border=true&background=020617&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak"/>
-
-</div>
-
-## `09 // CONNECT`
-
-<div align="center">
-
-```text
-01001000 01100101 01101100 01101100 01101111
-
-> Open to learning.
-> Open to collaboration.
-> Open to building what comes next.
-```
-
-<a href="https://linkedin.com/in/ishaan-mittal29/"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect on LinkedIn"/></a>
-
-<a href="https://github.com/kalicharm21?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=00FF9C" alt="Explore GitHub repositories"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:020617&height=100&section=footer" width="100%" alt="Decorative animated footer"/>
-
-**`END OF TRANSMISSION // KEEP BUILDING.`**
-
-</div>
-
-<!--
-External services used:
-- capsule-render.vercel.app
-- readme-typing-svg.demolab.com
-- skillicons.dev
-- github-readme-stats.vercel.app
-- streak-stats.demolab.com
-- shields.io
-- komarev.com
--->
+<div align="center">`[ END OF TRANSMISSION ] // KEEP BUILDING. KEEP SHIPPING.`</div>
