@@ -1,134 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on AI-powered applications, scalable backend systems, and real-time web platforms focused on solving practical problems through clean engineering and modern technologies.<br>🤝 I’m looking to collaborate on impactful open-source projects, AI integrations, full-stack applications, and innovative systems that create meaningful user experiences.<br>🧠 I’m looking for help with advanced system design, distributed systems, cloud architecture, and optimizing AI workflows for production-scale applications.<br>🌱 I’m currently learning advanced backend engineering, scalable architectures, DevOps practices, and exploring deeper applications of Generative AI and Computer Vision.<br>💬 Ask me about Full Stack Development, AI/ML projects, REST APIs, WebSockets, Computer Vision, backend optimization, and building production-ready applications.<br>⚡ Fun fact: I enjoy turning complex ideas into real-world products and often spend more time refining architecture and user experience than actually sleeping.
 
-<img src="assets/matrix-ascii-hero.svg" alt="Animated ASCII cyberpunk terminal" width="100%"/>
 
-# ISHAAN_MITTAL.exe
-### SOFTWARE ENGINEERING // AI & ML // PRODUCT SYSTEMS
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishaan-mittal29/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaanmittal999@gmail.com) 
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F5D4?style=for-the-badge&logo=vercel&logoColor=05070D)](https://itsmeishaan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-mittal29/)
-[![Email](https://img.shields.io/badge/EMAIL-FF2E88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaanmittal999@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/kalicharm21)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kalicharm21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kalicharm21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kalicharm21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-`[ SYSTEM ONLINE ] [ VIT BHOPAL // CSE (AI & ML) ] [ CGPA: 8.76/10 ]`
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kalicharm21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kalicharm21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `01 // PLAYER PROFILE`
-
-```text
-> identity.load("Ishaan Mittal")
-> role   : Software Engineering | AI/ML | Product & Business Operations
-> status : B.Tech CSE (AIML), VIT Bhopal — 2023–2027
-> focus  : scalable software, intelligent workflows, API systems
-> loop   : build -> measure -> debug -> ship
-```
-
-I work across **software engineering, AI/ML pipelines, API systems, and product operations**—turning practical requirements into user-centric software. I enjoy designing reliable APIs, improving data workflows, testing edge cases, and making systems faster and easier to use.
-
-## `02 // TECH ARSENAL`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,supabase,docker,git,github&theme=dark" alt="Technology stack"/>
-</p>
-
-| MODULE | TOOLS / CAPABILITIES |
-|---|---|
-| Languages | Python · Java · C++ · TypeScript · JavaScript · SQL · Bash |
-| Software & Web | React · Next.js · Node.js · Express · FastAPI · REST APIs · OOP · Design Patterns · TDD |
-| Data & Systems | PostgreSQL · MySQL · Supabase · MongoDB · Relational Modeling · Docker · Git |
-| AI / ML | Scikit-learn · OpenCV · MediaPipe · Gemini Vision API · Groq SDK · LLM Integration · Model Evaluation |
-| Product / Ops | Requirements Scoping · Workflow Mapping · KPI Tracking · Root-Cause Triage · Stakeholder Alignment |
-
-## `03 // DEPLOYED PROJECTS`
-
-<details open>
-<summary><b>FINOVA // Enterprise Invoicing & Financial Tracking</b></summary>
-
-**Stack:** Python · PostgreSQL · Supabase · Next.js · Gemini Vision
-
-- Designed a multi-tenant platform with OOP patterns, asynchronous protocols, and Row-Level Security for transactional data isolation.
-- Automated invoice extraction with Gemini Vision, reducing manual invoice logging by **75%**.
-- Tuned **12 relational queries** with composite B-tree indexes, reducing execution latency by **60%** and targeting sub-200 ms responses.
-
-</details>
-
-<details>
-<summary><b>ShopSense // Voice-Activated Conversational Commerce</b></summary>
-
-**Stack:** TypeScript · Next.js · Groq · PostgreSQL
-
-- Built a voice-driven retail assistant that recognizes speech intent and manages shopping-list items with **sub-250 ms interaction latency**.
-- Added recipe intelligence to parse dishes into ingredients and sync carts across active sessions.
-- Implemented predictive exhaustion analytics for proactive replenishment alerts.
-
-</details>
-
-<details>
-<summary><b>VITMESS // Campus Mess Utility</b></summary>
-
-- A campus-focused PWA for checking mess menus, timings, and meal information.
-- Includes feedback access and a convenient installable experience across devices.
-
-</details>
-
-<details>
-<summary><b>WorkQuanta // Real-Time Scheduling</b></summary>
-
-- A real-time scheduling project focused on WebSockets, responsive updates, and streamlined workflow coordination.
-
-</details>
-
-## `04 // EXPERIENCE LOG`
-
-**Product Intern — Phyllo** `Oct 2025 – Nov 2025`
-- Tested functional and regression behavior across **10+ REST endpoints** in Postman, validating schemas, boundary cases, and response codes.
-- Authored API references, endpoint contracts, and schema definitions to support developer onboarding.
-- Investigated server telemetry and edge failures, cutting root-cause triage turnaround by **20%**.
-
-**Software Engineer Intern (AI & Systems) — amasQIS.ai** `Mar 2025 – Sep 2025`
-- Built **5 annotation interfaces** for image and text workflows, supporting **1,000+ daily sessions**.
-- Improved dataset quality by **30%** through agreement checks and confidence-based scoring.
-- Integrated Hugging Face pre-labeling routines, reducing manual annotation turnaround by **40%**.
-
-## `05 // RESEARCH & ACHIEVEMENTS`
-
-- **IEEE ICAAIC 2025 publication** — *Clinical Decision Support through Machine Learning: Benchmarking LightGBM and Deep Learning Models for Diabetes Onset Prediction.* Used 5-fold cross-validation; reported a **0.79 F1 score** and **3× faster execution** under resource-constrained profiles.
-- **Repdox National Hackathon — 1st Runner-Up:** contributed to Bharat Pulse AI, an offline-resilient edge system.
-- **IBM Cybersecurity Analyst** (Data Governance) · **Deloitte GenAI Explorer** · **AlgoUniversity Graph Camp**
-- **Outreach Lead, iOS Club — VIT Bhopal:** organized 6 technical workshops and hackathons for 400+ attendees.
-- **Vice President, Music & Band Club — VIT Bhopal:** helped lead logistics and budgets for 15+ festivals.
-
-## `06 // CONTRIBUTION ARCADE`
-
-### `SNAKE.exe // eats contributions, not bugs`
-
-The snake animation is generated from your actual GitHub contribution graph. It updates when the workflow runs; it is not a live in-browser game.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kalicharm21/kalicharm21/output/github-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-</p>
-
-### `STREAK & ACTIVITY TELEMETRY`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kalicharm21&theme=dark&hide_border=true&background=05070D&ring=00F5D4&fire=FF2E88&currStreakLabel=00F5D4&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub streak statistics" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalicharm21&show_icons=true&hide_border=true&bg_color=05070D&title_color=00F5D4&icon_color=FF2E88&text_color=D1D5DB&include_all_commits=true" alt="GitHub stats" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalicharm21&bg_color=05070D&color=00F5D4&line=7B2CFF&point=FF2E88&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
-</p>
-
-## `07 // CONNECT TO OPERATOR`
-
-- **Portfolio:** https://itsmeishaan.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/ishaan-mittal29/
-- **Email:** ishaanmittal999@gmail.com
-
-<div align="center">`[ END OF TRANSMISSION ] // KEEP BUILDING. KEEP SHIPPING.`</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
